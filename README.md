@@ -9,3 +9,4 @@ example of file path structure
 ![2](https://user-images.githubusercontent.com/96442661/182451295-c25e9f9a-51b1-4249-8f40-4a99886d3d47.jpg)
 
 rename clinical_elecs.mat from EC96_01_clinical_elecs.mat (etc...)
+![e](https://user-images.githubusercontent.com/96442661/185176213-2c7c0178-81da-4e01-ab50-12dff3dc38f0.jpg)
