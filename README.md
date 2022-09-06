@@ -15,4 +15,3 @@ edit contents of sz_name_list to reflect seizures to analyze
 
 ![f](https://user-images.githubusercontent.com/96442661/185177650-b12be024-3419-4bc3-82eb-87825c78d25c.jpg)
 
-![mat](https://user-images.githubusercontent.com/96442661/185235780-0c68fcfa-6270-4306-a061-2ebf384be216.jpg)
